@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 //import AppFunction from './AppFunction';
+//import AppQuizNavBar from './QuizNavBar';
 
 ReactDOM.render(
   <React.StrictMode>
